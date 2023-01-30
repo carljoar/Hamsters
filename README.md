@@ -3,7 +3,8 @@ I denna aktivitet stöter vi på ett problem som alldeles nyligen löstes av for
 
 ## Prova online
 Du kan använda koden online via Binder. Klicka på knappen:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carljoar/Hamsters/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fcarljoar%2FHamsters%2Fblob%2Fmain%2FHamsters.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carljoar/Hamsters/HEAD)
 
 ## Referenser
 Menden-Deuer, S., Rowlett, J. The theory of games and microbe ecology. Theor Ecol 12, 1–15 (2019). https://doi.org/10.1007/s12080-018-0384-1
